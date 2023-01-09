@@ -3,7 +3,7 @@ const liveToastBtn = document.querySelector("#liveToastBtn");
 const ulDOM = document.querySelector("#list");
 const liveToast = document.querySelector("#liveToast");
 
-//Listeye eleman ekleme.
+//Listeye eleman ekleme..
     
 liveToastBtn.addEventListener("click", function(){
     var li = document.createElement("li");
